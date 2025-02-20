@@ -72,7 +72,7 @@ We will reuse the Windows 10 client workstation originally made in [the networki
 9. In the _Domain Controller Options_ panel, decide on the DSRM (Directory Services Restore Mode) password.
 10. Keep clicking _Next_ under you reach the _Prerequisites Check_ panel, wait for the verification to finish, then click _Install_.
 11. Click _Close_ when you see the successful server configuration alert, then the machine will restart shortly.
-12. Log back into the domain controller virtual machine this time using the `username@domain` syntax. (This will look something like `jcruz@corporate-it.com`.)
+12. Log back into the domain controller virtual machine this time using the `username@domain` syntax. (This will look something like `jcruz@mnl-it.com`.)
 
 ### Creating an Admin in the Domain
 **Video version:** <https://youtu.be/BDGOiHCqiIs>  
